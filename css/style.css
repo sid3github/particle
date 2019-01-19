@@ -27,6 +27,8 @@ ul li {
     background-color: green;
 }
 
+
+/* flexbox takes the whole div */
 #white {
     display: flex;
     justify-content: center;
